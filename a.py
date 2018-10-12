@@ -1,6 +1,3 @@
-print "program started"
-a=10
-b=20
-a="str1"
-#print a+b
-print "program ended"
+a=1000
+b=2000
+print a+b
