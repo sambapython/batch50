@@ -14,7 +14,8 @@ def get_postgres_con():
 	user= db_data.get("username")
 	pwd= db_data.get("password")
 	port=db_data.get("port")
-	con = psycopg2.connect(database=dbname, user=user, password=pwd, port=port)
+	host=db_data.get("host")
+	con = psycopg2.connect(database=dbname, user=user, password=pwd, port=port,host=host)
 	cur = con.cursor()
 	return con,cur
 

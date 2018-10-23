@@ -1,3 +1,8 @@
 {
-	"dbdetails":{"dbname": "batch50_1","username":"postgres","password":"root","port":5432}
+	"dbdetails":{
+		"dbname": "batch50_1",
+		"username":"postgres",
+		"password":"root",
+		"port":5432,
+		"host":"localhost"}
 }
