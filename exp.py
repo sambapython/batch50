@@ -20,5 +20,7 @@ except Exception as err:
     print err
 except:
     print "except"
+finally:
+    print "finally"
 print "thank you"
 print "Use me again"
