@@ -1,0 +1,4 @@
+2018-11-04 12:06:28,652--> WARNING==> warning message
+2018-11-04 12:06:28,652--> DEBUG==> debug message
+2018-11-04 12:06:28,652--> INFO==> info meaage
+2018-11-04 12:06:28,655--> ERROR==> error message

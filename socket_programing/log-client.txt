@@ -1,0 +1,7 @@
+2018-11-04 12:14:55,115--> INFO==> sending request for khyaathipython:8890
+2018-11-04 12:14:55,116--> INFO==> request sent: waiting for ack
+2018-11-04 12:14:57,118--> DEBUG==> acknowledgment:hello forfox how are you!!
+2018-11-04 12:14:58,998--> DEBUG==> sending: 12
+2018-11-04 12:14:58,999--> INFO==> waiting for the response
+2018-11-04 12:15:03,003--> DEBUG==> response: EVEN
+2018-11-04 12:15:03,004--> INFO==> socket closed..

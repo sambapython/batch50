@@ -1,0 +1,12 @@
+2018-11-04 12:14:42,910--> DEBUG==> hostname:khyaathipython
+2018-11-04 12:14:42,910--> DEBUG==> port: 8890
+2018-11-04 12:14:42,916--> INFO==> waiting for the clinet request
+2018-11-04 12:14:42,916--> DEBUG==> server running in: khyaathipython:8890
+2018-11-04 12:14:55,115--> INFO==> sending an acknowledgement
+2018-11-04 12:14:57,118--> INFO==> ack sent
+2018-11-04 12:14:58,999--> DEBUG==> received: 12
+2018-11-04 12:14:58,999--> INFO==> processing the request
+2018-11-04 12:15:01,002--> INFO==> sending the response
+2018-11-04 12:15:03,003--> INFO==> response sent successfully
+2018-11-04 12:15:03,003--> INFO==> waiting for the clinet request
+2018-11-04 12:15:03,003--> DEBUG==> server running in: khyaathipython:8890
